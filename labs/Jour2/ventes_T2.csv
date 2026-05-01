@@ -1,0 +1,116 @@
+VenteID;Date;Client;Region;Produit;Categorie;Quantite;Prix_Unitaire;Remise_Pct;Montant_Total;Canal
+T2-082;13/06/2024;Petit Hugo;Bretagne;Souris gaming;Informatique;5;89,0;0;445,0;Partenaire
+T2-005;07/05/2024;Simon Nicolas;Nouvelle-Aquitaine;Clavier mécanique;Informatique;8;134,1;10;1072,8;En ligne
+T2-041;03/04/2024;Simon Nicolas;Île-de-France;Chaise ergonomique;Mobilier;5;399,0;0;1995,0;En ligne
+T2-070;26/06/2024;Petit Hugo;Nouvelle-Aquitaine;Bureau debout;Mobilier;2;521,55;5;1043,1;En ligne
+T2-011;25/04/2024;Lambert Léa;Île-de-France;Smartphone;Électronique;6;629,1;10;3774,6;Partenaire
+T2-046;02/06/2024;Dubois Camille;Île-de-France;Batterie externe;Accessoires;7;49,0;0;343,0;Magasin
+T2-071;09/05/2024;Leroy Lucas;Île-de-France;Smartphone;Électronique;5;699,0;0;3495,0;En ligne
+T2-067;09/05/2024;Dubois Camille;Île-de-France;Tablette;Électronique;7;404,1;10;2828,7;Magasin
+T2-048;08/04/2024;Martin Sophie;Nouvelle-Aquitaine;Ordinateur portable;Informatique;4;899,0;0;3596,0;Partenaire
+T2-012;11/06/2024;Moreau Emma;Bretagne;Batterie externe;Accessoires;3;49,0;0;147,0;En ligne
+T2-101;19/06/2024;Dupont Thomas;Nouvelle-Aquitaine;Smartphone;Électronique;1;699,0;0;699,0;En ligne
+T2-037;27/06/2024;Dubois Camille;Île-de-France;Ordinateur portable;Informatique;4;764,15;15;3056,6;En ligne
+T2-085;31/05/2024;Petit Hugo;Occitanie;Tablette;Électronique;4;449,0;0;1796,0;Partenaire
+T2-082;13/06/2024;Petit Hugo;Bretagne;Souris gaming;Informatique;5;89,0;0;445,0;Partenaire
+T2-019;23/05/2024;Martin Sophie;Nouvelle-Aquitaine;Montre connectée;Électronique;2;269,1;10;538,2;Magasin
+T2-001;30/05/2024;Petit Hugo;Occitanie;Smartphone;Électronique;5;664,05;5;3320,25;Magasin
+T2-073;14/06/2024;Simon Nicolas;Nouvelle-Aquitaine;Tablette;Électronique;6;449,0;0;2694,0;Magasin
+T2-027;02/04/2024;Simon Nicolas;Bretagne;Souris gaming;Informatique;5;80,1;10;400,5;En ligne
+T2-106;10/06/2024;Petit Hugo;Bretagne;Chaise ergonomique;Mobilier;6;379,05;5;2274,3;En ligne
+T2-054;16/05/2024;Dubois Camille;Occitanie;Souris gaming;Informatique;7;80,1;10;560,7;En ligne
+T2-095;22/06/2024;Simon Nicolas;Nouvelle-Aquitaine;Clavier mécanique;Informatique;7;134,1;10;938,7;En ligne
+T2-057;09/06/2024;Bernard Marie;Bretagne;Tablette;Électronique;4;449,0;0;1796,0;En ligne
+T2-013;03/06/2024;Moreau Emma;Bretagne;Bureau debout;Mobilier;2;549,0;0;1098,0;Magasin
+T2-032;17/04/2024;Michel Julie;Île-de-France;Tablette;Électronique;6;449,0;0;2694,0;Magasin
+T2-068;15/04/2024;Dupont Thomas;Nouvelle-Aquitaine;Écouteurs;Électronique;6;129,0;0;774,0;Magasin
+T2-094;15/06/2024;Martin Sophie;Bretagne;Souris gaming;Informatique;3;75,65;15;226,95;En ligne
+T2-110;21/05/2024;Moreau Emma;Auvergne-Rhône-Alpes;Montre connectée;Électronique;7;269,1;10;1883,7;Partenaire
+T2-023;01/06/2024;Moreau Emma;Île-de-France;Chaise ergonomique;Mobilier;5;399,0;0;1995,0;Magasin
+T2-045;19/04/2024;Petit Hugo;Auvergne-Rhône-Alpes;Écouteurs;Électronique;7;122,55;5;857,85;Magasin
+T2-109;21/04/2024;Simon Nicolas;Île-de-France;Souris gaming;Informatique;8;89,0;0;712,0;En ligne
+T2-079;26/05/2024;Dupont Thomas;Île-de-France;Souris gaming;Informatique;2;75,65;15;151,3;Partenaire
+T2-016;15/06/2024;Simon Nicolas;Bretagne;Ordinateur portable;Informatique;7;899,0;0;6293,0;Partenaire
+T2-031;21/06/2024;Moreau Emma;Île-de-France;Montre connectée;Électronique;6;299,0;0;1794,0;Magasin
+T2-084;17/06/2024;Leroy Lucas;Bretagne;Bureau debout;Mobilier;5;549,0;0;2745,0;En ligne
+T2-010;28/06/2024;Dupont Thomas;Auvergne-Rhône-Alpes;Clavier mécanique;Informatique;4;126,65;15;506,6;Magasin
+T2-034;28/05/2024;Petit Hugo;Île-de-France;Bureau debout;Mobilier;7;466,65;15;3266,55;En ligne
+T2-063;21/06/2024;Michel Julie;Occitanie;Tablette;Électronique;4;449,0;0;1796,0;En ligne
+T2-066;01/04/2024;Moreau Emma;Bretagne;Chaise ergonomique;Mobilier;1;379,05;5;379,05;Magasin
+T2-029;12/05/2024;Michel Julie;Nouvelle-Aquitaine;Ordinateur portable;Informatique;1;899,0;0;899,0;Magasin
+T2-043;30/04/2024;Leroy Lucas;Nouvelle-Aquitaine;Batterie externe;Accessoires;2;46,55;5;93,1;En ligne
+T2-006;14/06/2024;Lambert Léa;Auvergne-Rhône-Alpes;Clavier mécanique;Informatique;5;126,65;15;633,25;En ligne
+T2-056;05/04/2024;Lambert Léa;Bretagne;Smartphone;Électronique;8;699,0;0;5592,0;En ligne
+T2-065;28/05/2024;Lambert Léa;Bretagne;Souris gaming;Informatique;4;75,65;15;302,6;Magasin
+T2-040;29/06/2024;Dupont Thomas;Bretagne;Smartphone;Électronique;7;699,0;0;4893,0;Partenaire
+T2-036;29/04/2024;Dubois Camille;Bretagne;Tablette;Électronique;8;449,0;0;3592,0;Magasin
+T2-017;09/06/2024;Leroy Lucas;Occitanie;Souris gaming;Informatique;4;84,55;5;338,2;En ligne
+T2-090;22/06/2024;Bernard Marie;Occitanie;Chaise ergonomique;Mobilier;6;359,1;10;2154,6;En ligne
+T2-035;15/05/2024;Simon Nicolas;Occitanie;Ordinateur portable;Informatique;4;854,05;5;3416,2;Partenaire
+T2-057;09/06/2024;Bernard Marie;Bretagne;Tablette;Électronique;4;449,0;0;1796,0;En ligne
+T2-008;03/05/2024;Dubois Camille;Auvergne-Rhône-Alpes;Tablette;Électronique;2;449,0;0;898,0;En ligne
+T2-044;26/04/2024;Dubois Camille;Île-de-France;Chaise ergonomique;Mobilier;6;379,05;5;2274,3;Partenaire
+T2-069;14/05/2024;Moreau Emma;Nouvelle-Aquitaine;Écouteurs;Électronique;4;129,0;0;516,0;Partenaire
+T2-105;05/06/2024;Dubois Camille;Bretagne;Souris gaming;Informatique;6;80,1;10;480,6;Magasin
+T2-028;09/04/2024;Dubois Camille;Bretagne;Chaise ergonomique;Mobilier;4;339,15;15;1356,6;Magasin
+T2-020;18/06/2024;Michel Julie;Auvergne-Rhône-Alpes;Smartphone;Électronique;4;699,0;0;2796,0;Magasin
+T2-092;23/05/2024;Martin Sophie;Nouvelle-Aquitaine;Montre connectée;Électronique;6;269,1;10;1614,6;Partenaire
+T2-097;13/06/2024;Moreau Emma;Nouvelle-Aquitaine;Smartphone;Électronique;7;664,05;5;4648,35;Magasin
+T2-026;23/05/2024;Petit Hugo;Occitanie;Tablette;Électronique;5;449,0;0;2245,0;Magasin
+T2-009;04/06/2024;Simon Nicolas;Occitanie;Bureau debout;Mobilier;3;549,0;0;1647,0;En ligne
+T2-086;30/06/2024;Bernard Marie;Île-de-France;Clavier mécanique;Informatique;2;141,55;5;283,1;En ligne
+T2-050;07/05/2024;Lambert Léa;Bretagne;Montre connectée;Électronique;7;284,05;5;1988,35;Partenaire
+T2-014;19/04/2024;Dubois Camille;Île-de-France;Smartphone;Électronique;7;699,0;0;4893,0;Partenaire
+T2-081;26/05/2024;Moreau Emma;Auvergne-Rhône-Alpes;Bureau debout;Mobilier;8;521,55;5;4172,4;En ligne
+T2-025;06/04/2024;Leroy Lucas;Nouvelle-Aquitaine;Bureau debout;Mobilier;3;549,0;0;1647,0;En ligne
+T2-004;30/05/2024;Michel Julie;Île-de-France;Smartphone;Électronique;7;664,05;5;4648,35;Magasin
+T2-018;02/04/2024;Bernard Marie;Auvergne-Rhône-Alpes;Batterie externe;Accessoires;1;49,0;0;49,0;Magasin
+T2-039;24/06/2024;Michel Julie;Île-de-France;Clavier mécanique;Informatique;2;149,0;0;298,0;En ligne
+T2-089;12/04/2024;Simon Nicolas;Occitanie;Chaise ergonomique;Mobilier;7;399,0;0;2793,0;Partenaire
+T2-007;27/06/2024;Moreau Emma;Île-de-France;Souris gaming;Informatique;7;84,55;5;591,85;Magasin
+T2-074;25/05/2024;Dubois Camille;Bretagne;Tablette;Électronique;7;404,1;10;2828,7;En ligne
+T2-099;18/06/2024;Lambert Léa;Auvergne-Rhône-Alpes;Chaise ergonomique;Mobilier;7;359,1;10;2513,7;Partenaire
+T2-091;05/04/2024;Michel Julie;Île-de-France;Smartphone;Électronique;4;629,1;10;2516,4;En ligne
+T2-055;03/04/2024;Lambert Léa;Nouvelle-Aquitaine;Clavier mécanique;Informatique;7;149,0;0;1043,0;En ligne
+T2-051;25/06/2024;Leroy Lucas;Île-de-France;Smartphone;Électronique;4;699,0;0;2796,0;En ligne
+T2-077;15/04/2024;Bernard Marie;Occitanie;Souris gaming;Informatique;2;84,55;5;169,1;Magasin
+T2-047;09/06/2024;Dupont Thomas;Auvergne-Rhône-Alpes;Smartphone;Électronique;3;629,1;10;1887,3;En ligne
+T2-078;26/05/2024;Dubois Camille;Occitanie;Ordinateur portable;Informatique;4;899,0;0;3596,0;En ligne
+T2-062;10/04/2024;Michel Julie;Bretagne;Tablette;Électronique;8;404,1;10;3232,8;En ligne
+T2-045;19/04/2024;Petit Hugo;Auvergne-Rhône-Alpes;Écouteurs;Électronique;7;122,55;5;857,85;Magasin
+T2-080;19/04/2024;Michel Julie;Île-de-France;Chaise ergonomique;Mobilier;6;379,05;5;2274,3;En ligne
+T2-090;22/06/2024;Bernard Marie;Occitanie;Chaise ergonomique;Mobilier;6;359,1;10;2154,6;En ligne
+T2-042;22/06/2024;Moreau Emma;Île-de-France;Batterie externe;Accessoires;2;44,1;10;88,2;Magasin
+T2-059;22/06/2024;Dupont Thomas;Auvergne-Rhône-Alpes;Montre connectée;Électronique;3;269,1;10;807,3;Partenaire
+T2-049;17/04/2024;Dubois Camille;Occitanie;Bureau debout;Mobilier;1;549,0;0;549,0;En ligne
+T2-098;22/04/2024;Petit Hugo;Nouvelle-Aquitaine;Batterie externe;Accessoires;2;41,65;15;83,3;Partenaire
+T2-058;21/04/2024;Martin Sophie;Bretagne;Batterie externe;Accessoires;6;41,65;15;249,9;Partenaire
+T2-076;26/05/2024;Dupont Thomas;Nouvelle-Aquitaine;Bureau debout;Mobilier;1;466,65;15;466,65;En ligne
+T2-033;03/04/2024;Michel Julie;Occitanie;Montre connectée;Électronique;6;254,15;15;1524,9;Partenaire
+T2-108;29/05/2024;Dubois Camille;Bretagne;Tablette;Électronique;7;449,0;0;3143,0;En ligne
+T2-060;23/06/2024;Bernard Marie;Auvergne-Rhône-Alpes;Tablette;Électronique;1;449,0;0;449,0;En ligne
+T2-064;25/04/2024;Simon Nicolas;Bretagne;Bureau debout;Mobilier;5;521,55;5;2607,75;En ligne
+T2-096;14/04/2024;Martin Sophie;Auvergne-Rhône-Alpes;Bureau debout;Mobilier;2;549,0;0;1098,0;En ligne
+T2-038;21/04/2024;Martin Sophie;Île-de-France;Montre connectée;Électronique;7;299,0;0;2093,0;Magasin
+T2-030;15/05/2024;Lambert Léa;Île-de-France;Clavier mécanique;Informatique;3;149,0;0;447,0;Magasin
+T2-102;06/04/2024;Michel Julie;Nouvelle-Aquitaine;Chaise ergonomique;Mobilier;3;339,15;15;1017,45;En ligne
+T2-002;09/04/2024;Dupont Thomas;Bretagne;Tablette;Électronique;4;426,55;5;1706,2;En ligne
+T2-053;27/04/2024;Dubois Camille;Occitanie;Smartphone;Électronique;3;594,15;15;1782,45;Partenaire
+T2-022;10/04/2024;Moreau Emma;Auvergne-Rhône-Alpes;Tablette;Électronique;3;404,1;10;1212,3;Partenaire
+T2-003;19/06/2024;Moreau Emma;Bretagne;Chaise ergonomique;Mobilier;4;339,15;15;1356,6;Magasin
+T2-024;07/06/2024;Dubois Camille;Île-de-France;Tablette;Électronique;2;426,55;5;853,1;En ligne
+T2-100;18/04/2024;Martin Sophie;Occitanie;Ordinateur portable;Informatique;3;899,0;0;2697,0;En ligne
+T2-088;29/05/2024;Dupont Thomas;Occitanie;Batterie externe;Accessoires;6;49,0;0;294,0;Magasin
+T2-104;24/05/2024;Dupont Thomas;Auvergne-Rhône-Alpes;Clavier mécanique;Informatique;2;126,65;15;253,3;Partenaire
+T2-075;04/06/2024;Michel Julie;Île-de-France;Clavier mécanique;Informatique;6;149,0;0;894,0;Partenaire
+T2-087;17/05/2024;Michel Julie;Bretagne;Bureau debout;Mobilier;5;549,0;0;2745,0;Magasin
+T2-083;02/04/2024;Michel Julie;Occitanie;Bureau debout;Mobilier;6;494,1;10;2964,6;En ligne
+T2-070;26/06/2024;Petit Hugo;Nouvelle-Aquitaine;Bureau debout;Mobilier;2;521,55;5;1043,1;En ligne
+T2-021;06/06/2024;Michel Julie;Nouvelle-Aquitaine;Smartphone;Électronique;5;699,0;0;3495,0;Partenaire
+T2-061;15/04/2024;Dupont Thomas;Île-de-France;Tablette;Électronique;8;449,0;0;3592,0;En ligne
+T2-072;16/04/2024;Moreau Emma;Occitanie;Écouteurs;Électronique;4;129,0;0;516,0;Partenaire
+T2-107;17/04/2024;Dupont Thomas;Occitanie;Montre connectée;Électronique;3;284,05;5;852,15;Magasin
+T2-015;12/06/2024;Martin Sophie;Île-de-France;Souris gaming;Informatique;7;75,65;15;529,55;En ligne
+T2-093;19/05/2024;Martin Sophie;Auvergne-Rhône-Alpes;Smartphone;Électronique;2;664,05;5;1328,1;Partenaire
+T2-052;05/05/2024;Petit Hugo;Occitanie;Batterie externe;Accessoires;3;41,65;15;124,95;Magasin
+T2-103;25/06/2024;Bernard Marie;Auvergne-Rhône-Alpes;Tablette;Électronique;1;381,65;15;381,65;Partenaire

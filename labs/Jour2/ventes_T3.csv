@@ -1,0 +1,131 @@
+VenteID,Date,Client,Region,Produit,Categorie,Quantite,Prix_Unitaire,Remise_Pct,Montant_Total,Canal,Commentaire,Source_Fichier
+T3-001,2024-09-30,,Île-de-France,Ordinateur portable,Informatique,,854.05,5,6832.4,En ligne,,Système CRM Export
+T3-002,2024-09-27,Martin Sophie,Occitanie,Tablette,Électronique,3.0,426.55,5,1279.65,Partenaire,,Système CRM Export
+T3-003,2024-08-26,Lambert Léa,Auvergne-Rhône-Alpes,Smartphone,Électronique,7.0,699.0,0,4893.0,En ligne,,Système CRM Export
+T3-004,2024-08-11,Lambert Léa,Île-de-France,Écouteurs,Électronique,5.0,129.0,0,645.0,magasin,,Système CRM Export
+T3-005,2024-07-26,Leroy Lucas,Bretagne,Tablette,Électronique,4.0,449.0,0,1796.0,En ligne,,Système CRM Export
+T3-006,2024-08-24,Petit Hugo,Bretagne,Tablette,Électronique,4.0,359.2,20,1436.8,En ligne,,Système CRM Export
+T3-007,2024-09-03,,Île-de-France,Montre connectée,Électronique,7.0,239.2,20,,Magasin,,Système CRM Export
+T3-008,2024-08-20,Dupont Thomas,Île-de-France,Smartphone,Électronique,1.0,699.0,0,699.0,En ligne,Retard signalé,Système CRM Export
+T3-009,2024-07-14,Bernard Marie,Nouvelle-Aquitaine,Écouteurs,Électronique,3.0,103.2,20,309.6,Partenaire,,Système CRM Export
+T3-010,2024-09-12,Leroy Lucas,Bretagne,Batterie externe,Accessoires,7.0,39.2,20,274.4,En ligne,,Système CRM Export
+T3-011,2024-09-16,Lambert Léa,Bretagne,Chaise ergonomique,Mobilier,1.0,319.2,20,319.2,Magasin,,Système CRM Export
+T3-012,2024-09-05,Michel Julie,Occitanie,Smartphone,Électronique,8.0,629.1,10,5032.8,En ligne,,Système CRM Export
+T3-013,2024-08-22,DUBOIS CAMILLE,Bretagne,Chaise ergonomique,Mobilier,8.0,319.2,20,2553.6,En ligne,,Système CRM Export
+T3-014,2024-08-31,Martin Sophie,Auvergne-Rhône-Alpes,Clavier mécanique,Informatique,6.0,141.55,5,849.3,Magasin,Livraison rapide,Système CRM Export
+T3-015,2024-08-04,Lambert Léa,Nouvelle-Aquitaine,Ordinateur portable,Informatique,1.0,899.0,0,899.0,en ligne,,Système CRM Export
+T3-016,2024-09-22,Petit Hugo,Île-de-France,Souris gaming,Informatique,1.0,84.55,5,84.55,Magasin,Livraison rapide,Système CRM Export
+T3-017,2024-07-15,Dupont Thomas,Île-de-France,Bureau debout,Mobilier,8.0,494.1,10,3952.8,Magasin,,Système CRM Export
+T3-018,2024-08-15,Bernard Marie,Île-de-France,Chaise ergonomique,Mobilier,4.0,399.0,0,1596.0,Magasin,,Système CRM Export
+T3-019,2024-08-22,Michel Julie,Nouvelle-Aquitaine,Montre connectée,Électronique,5.0,239.2,20,1196.0,En ligne,,Système CRM Export
+T3-020,2024-07-11,Michel Julie,Occitanie,Clavier mécanique,Informatique,5.0,149.0,0,745.0,Magasin,Livraison rapide,Système CRM Export
+T3-021,2024-07-04,Simon Nicolas,Nouvelle-Aquitaine,Chaise ergonomique,Mobilier,1.0,359.1,10,359.1,Magasin,,Système CRM Export
+T3-022,2024-09-17,MOREAU EMMA,Occitanie,Ordinateur portable,Informatique,6.0,899.0,0,5394.0,En ligne,,Système CRM Export
+T3-023,2024-09-07,Petit Hugo,Auvergne-Rhône-Alpes,Smartphone,Électronique,2.0,664.05,5,1328.1,Magasin,,Système CRM Export
+T3-024,2024-09-28,Lambert Léa,Bretagne,Bureau debout,Mobilier,5.0,439.2,20,2196.0,En ligne,Livraison rapide,Système CRM Export
+T3-025,2024-09-13,Dubois Camille,Île-de-France,Souris gaming,Informatique,5.0,71.2,20,356.0,Magasin,,Système CRM Export
+T3-026,2024-08-26,Michel Julie,Bretagne,Écouteurs,Électronique,1.0,129.0,0,129.0,Partenaire,Client satisfait,Système CRM Export
+T3-027,2024-07-24,Leroy Lucas,Bretagne,Tablette,Électronique,6.0,359.2,20,2155.2,En ligne,,Système CRM Export
+T3-028,2024-08-03,Lambert Léa,Occitanie,Souris gaming,Informatique,5.0,89.0,0,445.0,Magasin,Retour partiel,Système CRM Export
+T3-029,2024-08-24,Michel Julie,Île-de-France,Smartphone,Électronique,7.0,559.2,20,3914.4,Partenaire,,Système CRM Export
+T3-030,2024-07-27,Moreau Emma,Île-de-France,Clavier mécanique,Informatique,6.0,134.1,10,804.6,En ligne,,Système CRM Export
+T3-031,2024-07-18,Moreau Emma,Île-de-France,Tablette,Électronique,2.0,404.1,10,,En ligne,,Système CRM Export
+T3-032,2024-08-16,  SIMON NICOLAS  ,Auvergne-Rhône-Alpes,Souris gaming,Informatique,6.0,71.2,20,427.2,En ligne,,Système CRM Export
+T3-033,2024-08-13,Moreau Emma,Nouvelle-Aquitaine,Smartphone,Électronique,2.0,699.0,0,1398.0,En ligne,,Système CRM Export
+T3-034,2024-09-09,  Bernard Marie  ,Nouvelle-Aquitaine,Bureau debout,Mobilier,8.0,549.0,0,4392.0,Magasin,,Système CRM Export
+T3-035,2024-09-22,Bernard Marie,Nouvelle-Aquitaine,Tablette,Électronique,7.0,449.0,0,3143.0,En ligne,,Système CRM Export
+T3-036,2024-08-16,Bernard Marie,Bretagne,Bureau debout,Mobilier,7.0,439.2,20,3074.4,Magasin,,Système CRM Export
+T3-037,2024-07-12,Lambert Léa,Nouvelle-Aquitaine,Tablette,Électronique,3.0,449.0,0,1347.0,Partenaire,Retour partiel,Système CRM Export
+T3-038,2024-07-23,Leroy Lucas,Île-de-France,Montre connectée,Électronique,7.0,284.05,5,1988.35,Partenaire,Retard signalé,Système CRM Export
+T3-039,2024-07-21,Dupont Thomas,Île-de-France,Bureau debout,Mobilier,5.0,439.2,20,2196.0,Magasin,Retard signalé,Système CRM Export
+T3-040,2024-09-02,Dubois Camille,Occitanie,Bureau debout,Mobilier,5.0,549.0,0,2745.0,Magasin,Livraison rapide,Système CRM Export
+T3-041,2024-09-05,Martin Sophie,Nouvelle-Aquitaine,Smartphone,Électronique,,699.0,0,2796.0,Partenaire,Retour partiel,Système CRM Export
+T3-042,2024-08-26,Martin Sophie,Nouvelle-Aquitaine,Chaise ergonomique,Mobilier,2.0,399.0,0,798.0,En ligne,Retour partiel,Système CRM Export
+T3-043,2024-07-31,Lambert Léa,Île-de-France,Smartphone,Électronique,2.0,699.0,0,1398.0,Magasin,,Système CRM Export
+T3-044,2024-09-25,Moreau Emma,Bretagne,Chaise ergonomique,Mobilier,7.0,399.0,0,2793.0,En ligne,,Système CRM Export
+T3-045,2024-07-17,Dubois Camille,Bretagne,Smartphone,Électronique,6.0,629.1,10,3774.6,En ligne,,Système CRM Export
+T3-046,2024-07-07,Martin Sophie,Bretagne,Clavier mécanique,Informatique,,149.0,0,894.0,En ligne,,Système CRM Export
+T3-047,2024-07-02,Dubois Camille,Auvergne-Rhône-Alpes,Batterie externe,Accessoires,8.0,49.0,0,392.0,Magasin,Retard signalé,Système CRM Export
+T3-048,2024-07-13,PETIT HUGO,Nouvelle-Aquitaine,Souris gaming,Informatique,2.0,71.2,20,142.4,En ligne,,Système CRM Export
+T3-049,2024-09-03,Moreau Emma,Auvergne-Rhône-Alpes,Ordinateur portable,Informatique,7.0,719.2,20,5034.4,En ligne,Retard signalé,Système CRM Export
+T3-050,2024-07-18,Dubois Camille,Bretagne,Tablette,Électronique,,449.0,0,3592.0,En ligne,,Système CRM Export
+T3-051,2024-09-15,Michel Julie,Île-de-France,Souris gaming,Informatique,5.0,80.1,10,400.5,En ligne,Livraison rapide,Système CRM Export
+T3-052,2024-08-21,Dupont Thomas,Bretagne,Souris gaming,Informatique,3.0,89.0,0,267.0,Magasin,,Système CRM Export
+T3-053,2024-09-17,Dubois Camille,Nouvelle-Aquitaine,Clavier mécanique,Informatique,4.0,149.0,0,596.0,En ligne,,Système CRM Export
+T3-054,2024-09-01,Moreau Emma,Occitanie,Tablette,Électronique,6.0,449.0,0,2694.0,Partenaire,,Système CRM Export
+T3-055,2024-08-04,  Dupont Thomas  ,Bretagne,Bureau debout,Mobilier,4.0,521.55,5,2086.2,Magasin,Retour partiel,Système CRM Export
+T3-056,2024-09-13,DUBOIS CAMILLE,Bretagne,Tablette,Électronique,4.0,449.0,0,1796.0,Magasin,,Système CRM Export
+T3-057,2024-07-02,Simon Nicolas,Bretagne,Bureau debout,Mobilier,6.0,549.0,0,3294.0,Magasin,Client satisfait,Système CRM Export
+T3-058,2024-09-27,Leroy Lucas,Occitanie,Tablette,Électronique,6.0,426.55,5,2559.3,Magasin,,Système CRM Export
+T3-059,2024-07-17,Lambert Léa,Bretagne,Écouteurs,Électronique,8.0,122.55,5,,En ligne,Retard signalé,Système CRM Export
+T3-060,2024-07-02,Michel Julie,Île-de-France,Montre connectée,Électronique,5.0,239.2,20,1196.0,Magasin,Retard signalé,Système CRM Export
+T3-061,2024-08-29,Bernard Marie,Occitanie,Montre connectée,Électronique,1.0,299.0,0,299.0,En ligne,,Système CRM Export
+T3-062,2024-08-31,Michel Julie,Auvergne-Rhône-Alpes,Souris gaming,Informatique,7.0,71.2,20,498.4,En ligne,Retour partiel,Système CRM Export
+T3-063,2024-09-08,Bernard Marie,Île-de-France,Smartphone,Électronique,2.0,629.1,10,1258.2,En ligne,,Système CRM Export
+T3-064,2024-07-29,Moreau Emma,Nouvelle-Aquitaine,Souris gaming,Informatique,4.0,89.0,0,356.0,Partenaire,Retard signalé,Système CRM Export
+T3-065,2024-07-19,  DUBOIS CAMILLE  ,Bretagne,Batterie externe,Accessoires,8.0,49.0,0,392.0,Magasin,,Système CRM Export
+T3-066,2024-09-24,Bernard Marie,Auvergne-Rhône-Alpes,Montre connectée,Électronique,3.0,269.1,10,807.3,Partenaire,Livraison rapide,Système CRM Export
+T3-067,2024-09-14,Petit Hugo,Occitanie,Écouteurs,Électronique,,129.0,0,645.0,En ligne,,Système CRM Export
+T3-068,2024-07-06,Dubois Camille,Auvergne-Rhône-Alpes,Chaise ergonomique,Mobilier,1.0,399.0,0,399.0,En ligne,,Système CRM Export
+T3-069,2024-07-12,Simon Nicolas,Île-de-France,Tablette,Électronique,8.0,449.0,0,3592.0,En ligne,,Système CRM Export
+T3-070,2024-08-15,PETIT HUGO,Auvergne-Rhône-Alpes,Clavier mécanique,Informatique,4.0,141.55,5,566.2,En ligne,Retour partiel,Système CRM Export
+T3-071,2024-07-18,  Lambert Léa  ,Île-de-France,Ordinateur portable,Informatique,1.0,899.0,0,899.0,Partenaire,Retard signalé,Système CRM Export
+T3-072,2024-08-12,Dubois Camille,Île-de-France,Montre connectée,Électronique,6.0,299.0,0,1794.0,En ligne,Retour partiel,Système CRM Export
+T3-073,2024-07-19,Bernard Marie,Île-de-France,Souris gaming,Informatique,,71.2,20,284.8,En ligne,,Système CRM Export
+T3-074,2024-08-11,Petit Hugo,Nouvelle-Aquitaine,Batterie externe,Accessoires,8.0,46.55,5,372.4,En ligne,Retour partiel,Système CRM Export
+T3-075,2024-09-12,Moreau Emma,Occitanie,Batterie externe,Accessoires,1.0,49.0,0,49.0,Partenaire,,Système CRM Export
+T3-076,2024-07-23,Martin Sophie,Auvergne-Rhône-Alpes,Smartphone,Électronique,3.0,559.2,20,1677.6,Magasin,Client satisfait,Système CRM Export
+T3-077,2024-08-06,Martin Sophie,Nouvelle-Aquitaine,Smartphone,Électronique,,629.1,10,5032.8,Partenaire,,Système CRM Export
+T3-078,2024-07-29,MARTIN SOPHIE,Bretagne,Tablette,Électronique,4.0,449.0,0,1796.0,Partenaire,Retour partiel,Système CRM Export
+T3-079,2024-08-08,BERNARD MARIE,Nouvelle-Aquitaine,Tablette,Électronique,8.0,359.2,20,2873.6,Partenaire,Client satisfait,Système CRM Export
+T3-080,2024-09-07,Michel Julie,Nouvelle-Aquitaine,Batterie externe,Accessoires,,49.0,0,343.0,En ligne,Livraison rapide,Système CRM Export
+T3-081,2024-09-17,Martin Sophie,Occitanie,Bureau debout,Mobilier,2.0,439.2,20,878.4,Magasin,,Système CRM Export
+T3-082,2024-08-26,Petit Hugo,Nouvelle-Aquitaine,Montre connectée,Électronique,3.0,299.0,0,897.0,En ligne,,Système CRM Export
+T3-083,2024-07-14,MARTIN SOPHIE,Nouvelle-Aquitaine,Tablette,Électronique,3.0,404.1,10,1212.3,En ligne,,Système CRM Export
+T3-084,2024-07-24,Simon Nicolas,Nouvelle-Aquitaine,Ordinateur portable,Informatique,5.0,809.1,10,4045.5,Partenaire,,Système CRM Export
+T3-085,2024-09-16,Moreau Emma,Nouvelle-Aquitaine,Montre connectée,Électronique,,284.05,5,1988.35,Magasin,Retour partiel,Système CRM Export
+T3-086,2024-09-28,Dubois Camille,Nouvelle-Aquitaine,Clavier mécanique,Informatique,4.0,149.0,0,596.0,Magasin,,Système CRM Export
+T3-087,2024-07-27,Lambert Léa,Bretagne,Tablette,Électronique,2.0,449.0,0,898.0,Partenaire,Retard signalé,Système CRM Export
+T3-088,2024-09-09,Martin Sophie,Auvergne-Rhône-Alpes,Écouteurs,Électronique,4.0,129.0,0,516.0,En ligne,,Système CRM Export
+T3-089,2024-07-08,Michel Julie,Bretagne,Bureau debout,Mobilier,5.0,549.0,0,2745.0,Partenaire,,Système CRM Export
+T3-090,2024-07-13,Martin Sophie,Occitanie,Écouteurs,Électronique,7.0,129.0,0,903.0,En ligne,,Système CRM Export
+T3-091,2024-09-16,Moreau Emma,Nouvelle-Aquitaine,Souris gaming,Informatique,,89.0,0,445.0,En ligne,,Système CRM Export
+T3-092,2024-09-29,Lambert Léa,Auvergne-Rhône-Alpes,Montre connectée,Électronique,8.0,284.05,5,2272.4,Partenaire,Retour partiel,Système CRM Export
+T3-093,2024-09-20,Dubois Camille,Île-de-France,Souris gaming,Informatique,4.0,84.55,5,338.2,En ligne,Livraison rapide,Système CRM Export
+T3-094,2024-07-12,,Nouvelle-Aquitaine,Écouteurs,Électronique,8.0,129.0,0,1032.0,En ligne,,Système CRM Export
+T3-095,2024-08-22,  LEROY LUCAS  ,Auvergne-Rhône-Alpes,Smartphone,Électronique,8.0,629.1,10,,En ligne,Client satisfait,Système CRM Export
+T3-096,2024-07-08,Simon Nicolas,Nouvelle-Aquitaine,Ordinateur portable,Informatique,6.0,899.0,0,5394.0,En ligne,,Système CRM Export
+T3-097,2024-09-04,Petit Hugo,Occitanie,Tablette,Électronique,3.0,426.55,5,1279.65,Magasin,,Système CRM Export
+T3-098,2024-07-12,Lambert Léa,Auvergne-Rhône-Alpes,Souris gaming,Informatique,1.0,89.0,0,89.0,En ligne,,Système CRM Export
+T3-099,2024-09-10,Martin Sophie,Auvergne-Rhône-Alpes,Batterie externe,Accessoires,8.0,49.0,0,392.0,Magasin,,Système CRM Export
+T3-100,2024-08-22,Michel Julie,Île-de-France,Chaise ergonomique,Mobilier,3.0,319.2,20,957.6,En ligne,Retard signalé,Système CRM Export
+T3-101,2024-09-07,  Bernard Marie  ,Île-de-France,Bureau debout,Mobilier,,549.0,0,2196.0,Partenaire,,Système CRM Export
+T3-102,2024-07-18,Simon Nicolas,Auvergne-Rhône-Alpes,Montre connectée,Électronique,2.0,269.1,10,538.2,Magasin,,Système CRM Export
+T3-103,2024-07-27,  Dupont Thomas  ,Occitanie,Montre connectée,Électronique,6.0,269.1,10,1614.6,Partenaire,Retard signalé,Système CRM Export
+T3-104,2024-08-21,LEROY LUCAS,Nouvelle-Aquitaine,Bureau debout,Mobilier,4.0,549.0,0,2196.0,Magasin,,Système CRM Export
+T3-105,2024-07-18,Leroy Lucas,Auvergne-Rhône-Alpes,Smartphone,Électronique,2.0,699.0,0,1398.0,En ligne,,Système CRM Export
+T3-106,2024-08-04,Lambert Léa,Auvergne-Rhône-Alpes,Clavier mécanique,Informatique,5.0,149.0,0,745.0,En ligne,,Système CRM Export
+T3-107,2024-08-17,Moreau Emma,Île-de-France,Tablette,Électronique,,449.0,0,898.0,Partenaire,,Système CRM Export
+T3-108,2024-07-22,MARTIN SOPHIE,Bretagne,Clavier mécanique,Informatique,3.0,119.2,20,357.6,Partenaire,,Système CRM Export
+T3-109,2024-07-18,MOREAU EMMA,Bretagne,Smartphone,Électronique,8.0,629.1,10,5032.8,Magasin,Retour partiel,Système CRM Export
+T3-110,2024-07-30,Martin Sophie,Occitanie,Ordinateur portable,Informatique,6.0,899.0,0,5394.0,En ligne,Retour partiel,Système CRM Export
+T3-111,2024-08-09,Michel Julie,Île-de-France,Bureau debout,Mobilier,4.0,521.55,5,2086.2,Magasin,Client satisfait,Système CRM Export
+T3-112,2024-08-09,Leroy Lucas,Bretagne,Chaise ergonomique,Mobilier,5.0,399.0,0,,En ligne,Livraison rapide,Système CRM Export
+T3-113,2024-08-22,Dubois Camille,Occitanie,Montre connectée,Électronique,,284.05,5,852.15,Partenaire,,Système CRM Export
+T3-114,2024-08-09,Bernard Marie,Nouvelle-Aquitaine,Bureau debout,Mobilier,5.0,549.0,0,2745.0,Partenaire,,Système CRM Export
+T3-115,2024-07-09,Petit Hugo,Nouvelle-Aquitaine,Batterie externe,Accessoires,1.0,49.0,0,49.0,Magasin,Retard signalé,Système CRM Export
+T3-116,2024-08-16,Simon Nicolas,Nouvelle-Aquitaine,Ordinateur portable,Informatique,3.0,899.0,0,2697.0,Magasin,,Système CRM Export
+T3-117,2024-08-30,Moreau Emma,Occitanie,Montre connectée,Électronique,6.0,239.2,20,1435.2,Partenaire,,Système CRM Export
+T3-118,2024-09-06,Leroy Lucas,Île-de-France,Tablette,Électronique,5.0,449.0,0,2245.0,Magasin,,Système CRM Export
+T3-119,2024-07-27,Bernard Marie,Bretagne,Clavier mécanique,Informatique,2.0,119.2,20,238.4,En ligne,,Système CRM Export
+T3-120,2024-08-23,Leroy Lucas,Occitanie,Chaise ergonomique,Mobilier,1.0,359.1,10,359.1,Partenaire,Client satisfait,Système CRM Export
+T3-121,2024-09-16,Dubois Camille,Nouvelle-Aquitaine,Montre connectée,Électronique,4.0,239.2,20,956.8,Partenaire,Livraison rapide,Système CRM Export
+T3-122,2024-09-29,Michel Julie,Occitanie,Batterie externe,Accessoires,4.0,46.55,5,186.2,Partenaire,,Système CRM Export
+T3-123,2024-08-20,  Moreau Emma  ,Nouvelle-Aquitaine,Montre connectée,Électronique,8.0,284.05,5,2272.4,Magasin,,Système CRM Export
+T3-124,2024-08-13,Bernard Marie,Occitanie,Tablette,Électronique,6.0,404.1,10,2424.6,En ligne,,Système CRM Export
+T3-125,2024-08-31,Martin Sophie,Bretagne,Smartphone,Électronique,5.0,629.1,10,3145.5,Magasin,,Système CRM Export
+T3-126,2024-09-17,Lambert Léa,Nouvelle-Aquitaine,Écouteurs,Électronique,,122.55,5,122.55,En ligne,Retard signalé,Système CRM Export
+T3-127,2024-08-19,Leroy Lucas,Nouvelle-Aquitaine,Souris gaming,Informatique,5.0,80.1,10,400.5,En ligne,,Système CRM Export
+T3-128,2024-07-13,Petit Hugo,Nouvelle-Aquitaine,Chaise ergonomique,Mobilier,1.0,399.0,0,399.0,En ligne,,Système CRM Export
+T3-129,2024-09-05,BERNARD MARIE,Occitanie,Clavier mécanique,Informatique,,141.55,5,849.3,En ligne,Client satisfait,Système CRM Export
+T3-130,2024-07-30,Dupont Thomas,Occitanie,Montre connectée,Électronique,7.0,299.0,0,2093.0,Magasin,Client satisfait,Système CRM Export
